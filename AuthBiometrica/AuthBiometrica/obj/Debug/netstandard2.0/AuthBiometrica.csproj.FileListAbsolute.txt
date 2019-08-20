@@ -1,0 +1,12 @@
+C:\Users\claud\Desktop\AuthBiometrica\AuthBiometrica\AuthBiometrica\bin\Debug\netstandard2.0\AuthBiometrica.deps.json
+C:\Users\claud\Desktop\AuthBiometrica\AuthBiometrica\AuthBiometrica\bin\Debug\netstandard2.0\AuthBiometrica.dll
+C:\Users\claud\Desktop\AuthBiometrica\AuthBiometrica\AuthBiometrica\obj\Debug\netstandard2.0\AuthBiometrica.csprojAssemblyReference.cache
+C:\Users\claud\Desktop\AuthBiometrica\AuthBiometrica\AuthBiometrica\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\claud\Desktop\AuthBiometrica\AuthBiometrica\AuthBiometrica\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\claud\Desktop\AuthBiometrica\AuthBiometrica\AuthBiometrica\obj\Debug\netstandard2.0\AuthBiometrica.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\AuthBiometrica\AuthBiometrica\AuthBiometrica\obj\Debug\netstandard2.0\AuthBiometrica.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\AuthBiometrica\AuthBiometrica\AuthBiometrica\obj\Debug\netstandard2.0\AuthBiometrica.AssemblyInfo.cs
+C:\Users\claud\Desktop\AuthBiometrica\AuthBiometrica\AuthBiometrica\bin\Debug\netstandard2.0\AuthBiometrica.pdb
+C:\Users\claud\Desktop\AuthBiometrica\AuthBiometrica\AuthBiometrica\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\claud\Desktop\AuthBiometrica\AuthBiometrica\AuthBiometrica\obj\Debug\netstandard2.0\AuthBiometrica.dll
+C:\Users\claud\Desktop\AuthBiometrica\AuthBiometrica\AuthBiometrica\obj\Debug\netstandard2.0\AuthBiometrica.pdb
